@@ -23,7 +23,8 @@ We are sourcing the data from MS SQL Server, transforming it using Informatica a
 
 
 # Source table in MySQL server
-![unnamed](https://user-images.githubusercontent.com/100331434/155977940-d10ffcaf-a3bb-4d5b-a036-4a58147995d7.png)
+![MySql source](https://user-images.githubusercontent.com/100331434/155978959-860d7752-365f-47d5-ae6b-0a74ec260d2b.png)
+
 
 # Target table in Oracle
 <img width="661" alt="Oracle_Result" src="https://user-images.githubusercontent.com/100331434/155978124-61e08f92-a50f-485a-918c-7f49b96134b4.png">
